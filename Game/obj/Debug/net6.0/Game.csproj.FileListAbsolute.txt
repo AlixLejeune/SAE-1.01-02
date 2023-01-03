@@ -1,5 +1,0 @@
-C:\Users\lejeunal\source\repos\SAE\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
-C:\Users\lejeunal\source\repos\SAE\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lejeunal\source\repos\SAE\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
-C:\Users\lejeunal\source\repos\SAE\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
-C:\Users\lejeunal\source\repos\SAE\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
