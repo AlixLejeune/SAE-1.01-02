@@ -15,8 +15,21 @@
 /reference:..\..\..\..\..\..\.nuget\packages\monogame.extended.content.pipeline\3.8.0\tools\MonoGame.Extended.Graphics.dll
 /reference:..\..\..\..\..\..\.nuget\packages\monogame.extended.content.pipeline\3.8.0\tools\MonoGame.Extended.Tiled.dll
 /reference:..\..\..\..\..\..\.nuget\packages\monogame.extended.content.pipeline\3.8.0\tools\Newtonsoft.Json.dll
+/reference:..\..\..\..\..\..\.nuget\packages\monogame.extended.animations\3.7.0\lib\netstandard2.0\MonoGame.Extended.Animations.dll
 
 #---------------------------------- Content ---------------------------------#
+
+#begin baltazar_sprite_sheet.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:baltazar_sprite_sheet.png
 
 #begin mapGenerale.tmx
 /importer:TiledMapImporter
@@ -46,10 +59,4 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:perso.png
-
-#begin persoAnimation.sf
-/importer:SpriteFactoryContentImporter
-/processor:SpriteFactoryContentProcessor
-/processorParam:ContentType=MonoGame.Extended MonoGame.Extended.Animations.SpriteFactory.SpriteFactoryFileReader, MonoGame.Extended.Animations
-/build:persoAnimation.sf
 

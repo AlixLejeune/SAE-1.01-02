@@ -1,5 +1,5 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/mapGenerale.tmx","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/mapGenerale.xnb","TiledMapProcessor","TiledMapContentItem",22292,22131,0,3572479
-"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/mapGeneraleTuiles.png","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/mapGeneraleTuiles.xnb","TextureProcessor","Texture2DContent",18369,358485,0,0639859
-"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/perso.png","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/perso.xnb","TextureProcessor","Texture2DContent",24060,1437781,0,1060975
-"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/persoAnimation.sf","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/persoAnimation.xnb","SpriteFactoryContentProcessor","JsonContentProcessorResult",681,815,0,0468972
+"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/baltazar_sprite_sheet.png","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/baltazar_sprite_sheet.xnb","TextureProcessor","Texture2DContent",1710,36949,0,1919963
+"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/mapGenerale.tmx","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/mapGenerale.xnb","TiledMapProcessor","TiledMapContentItem",22292,22131,0,1605608
+"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/mapGeneraleTuiles.png","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/mapGeneraleTuiles.xnb","TextureProcessor","Texture2DContent",18369,358485,0,0507043
+"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/perso.png","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/perso.xnb","TextureProcessor","Texture2DContent",24060,1437781,0,1017502

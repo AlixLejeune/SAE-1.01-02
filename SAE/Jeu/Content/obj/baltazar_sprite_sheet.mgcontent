@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/perso.png</SourceFile>
-  <SourceTime>2020-10-20T10:19:50+02:00</SourceTime>
-  <DestFile>C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/perso.xnb</DestFile>
-  <DestTime>2023-01-04T17:37:55.9403896+01:00</DestTime>
+  <SourceFile>C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/baltazar_sprite_sheet.png</SourceFile>
+  <SourceTime>2023-01-04T16:13:31.3659463+01:00</SourceTime>
+  <DestFile>C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/bin/baltazar_sprite_sheet.xnb</DestFile>
+  <DestTime>2023-01-04T17:37:55.6283308+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

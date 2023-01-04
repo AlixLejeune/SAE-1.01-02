@@ -29,3 +29,9 @@ C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\MonoGame.Ext
 C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
 C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\Content\baltazar_sprite_sheet.png
+C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\Content\baltazar_sprite_sheet.sf
+C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\Content\mapGenerale.tmx
+C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\Content\mapGeneraleTuiles.png
+C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\Content\persoAnimation.sf
+C:\Users\lejeunal\source\repos\SAE-1.01-02\SAE\Jeu\bin\Debug\net6.0\Content\perso.png

@@ -4,10 +4,10 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/baltazar_sprite_sheet.png</File>
     <File>C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/mapGenerale.tmx</File>
     <File>C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/mapGeneraleTuiles.png</File>
     <File>C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/perso.png</File>
-    <File>C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/Content/persoAnimation.sf</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

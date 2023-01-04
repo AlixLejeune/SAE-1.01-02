@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/bin/Debug/net6.0/Content/baltazar_sprite_sheet.png","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/bin/Debug/net6.0/Content/bin/baltazar_sprite_sheet.xnb","TextureProcessor","Texture2DContent",1710,36949,0,1933809
+"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/bin/Debug/net6.0/Content/mapGenerale.tmx","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/bin/Debug/net6.0/Content/bin/mapGenerale.xnb","TiledMapProcessor","TiledMapContentItem",22292,22131,0,1553894
+"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/bin/Debug/net6.0/Content/mapGeneraleTuiles.png","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/bin/Debug/net6.0/Content/bin/mapGeneraleTuiles.xnb","TextureProcessor","Texture2DContent",18369,358485,0,0466274
+"C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/bin/Debug/net6.0/Content/perso.png","C:/Users/lejeunal/source/repos/SAE-1.01-02/SAE/Jeu/bin/Debug/net6.0/Content/bin/perso.xnb","TextureProcessor","Texture2DContent",24060,1437781,0,0805229

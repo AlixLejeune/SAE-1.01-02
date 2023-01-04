@@ -40,7 +40,7 @@ namespace Jeu
             _spriteBatch = new SpriteBatch(GraphicsDevice);
             tiledMap = Content.Load<TiledMap>("mapGenerale");
             tiledMapRenderer = new TiledMapRenderer(GraphicsDevice, tiledMap);
-            SpriteSheet spriteSheet = Content.Load<SpriteSheet>("persoAnimation.sf", new JsonContentLoader());
+            SpriteSheet spriteSheet = Content.Load<SpriteSheet>("baltazar_sprite_sheet.sf", new JsonContentLoader());
             perso = new AnimatedSprite(spriteSheet);
             mapLayer = tiledMap.GetLayer<TiledMapTileLayer>("obstacles");
         }
@@ -52,14 +52,14 @@ namespace Jeu
             float deltaSeconds = (float)gameTime.ElapsedGameTime.TotalSeconds;
             tiledMapRenderer.Update(gameTime);
             keyboardState = Keyboard.GetState();
-            string animation = "idle";
+            string animation = "idle_up";
 
 
             if (keyboardState.IsKeyDown(Keys.Z))
             {
                 ushort tx = (ushort)(positionPerso.X / tiledMap.TileWidth);
                 ushort ty = (ushort)(positionPerso.Y / tiledMap.TileHeight - 1);
-                animation = "walkNorth";
+                animation = "walk_up";
                 if (!IsCollision(tx, ty))
                     positionPerso.Y -= VITESSE_PERSO;
             }
@@ -67,7 +67,7 @@ namespace Jeu
             {
                 ushort tx = (ushort)(positionPerso.X / tiledMap.TileWidth - 1);
                 ushort ty = (ushort)(positionPerso.Y / tiledMap.TileHeight);
-                animation = "walkWest";
+                animation = "walk_L";
                 if (!IsCollision(tx, ty))
                     positionPerso.X -= VITESSE_PERSO;
             }
@@ -75,7 +75,7 @@ namespace Jeu
             {
                 ushort tx = (ushort)(positionPerso.X / tiledMap.TileWidth);
                 ushort ty = (ushort)(positionPerso.Y / tiledMap.TileHeight + 1);
-                animation = "walkSouth";
+                animation = "walk_down";
                 if (!IsCollision(tx, ty))
                     positionPerso.Y += VITESSE_PERSO;
             }
@@ -83,7 +83,7 @@ namespace Jeu
             {
                 ushort tx = (ushort)(positionPerso.X / tiledMap.TileWidth + 1);
                 ushort ty = (ushort)(positionPerso.Y / tiledMap.TileHeight);
-                animation = "walkEast";
+                animation = "walk_R";
                 if (!IsCollision(tx, ty))
                     positionPerso.X += VITESSE_PERSO;
             }
