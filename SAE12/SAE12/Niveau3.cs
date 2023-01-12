@@ -40,7 +40,7 @@ namespace SAE12
         private TiledMapTileLayer _mapLayer2;
         private TiledMapTileLayer _mapLayer3;
 
-        SpriteFont _police;
+        SpriteFont _polisse;
 
         Texte _texte;
 
@@ -123,8 +123,8 @@ namespace SAE12
             _mapLayer3 = _tiledMap.GetLayer<TiledMapTileLayer>("obstacles");
             _tiledMapRenderer = new TiledMapRenderer(GraphicsDevice, _tiledMap);
 
-            _police = Content.Load<SpriteFont>("fontuwu");
-            _texte.Load(_police, txtPerso);
+            _polisse = Content.Load<SpriteFont>("fontuwu");
+            _texte.Load(_polisse, txtPerso);
 
             _box = Content.Load<Texture2D>("text_box");
             _boxPerso = Content.Load<Texture2D>("perso_box");
@@ -151,18 +151,18 @@ namespace SAE12
             if (debut && etat == 0)
             {
 
-                _texte.Load(_police, txtPerso);
+                _texte.Load(_polisse, txtPerso);
                 etat = 1;
             }
             if (_texte.fini == true && etat == 1 && keyboardState.IsKeyDown(Keys.Enter))
             {
-                _texte.Load(_police, txtPerso1);
+                _texte.Load(_polisse, txtPerso1);
                 etat = 2;
                 _texte.fini = false;
             }
             if (_texte.fini == true && etat == 2 && keyboardState.IsKeyDown(Keys.Enter))
             {
-                _texte.Load(_police, txtPerso2);
+                _texte.Load(_polisse, txtPerso2);
                 etat = 3;
                 _texte.fini = false;
 
@@ -178,7 +178,7 @@ namespace SAE12
             if (_player.interaction && keyboardState.IsKeyDown(Keys.E))
             {
                 inter = true;
-                _texte.Load(_police, txtPerso3);
+                _texte.Load(_polisse, txtPerso3);
                 etat = 4;
                 _texte.fini = false;
                 move = false;

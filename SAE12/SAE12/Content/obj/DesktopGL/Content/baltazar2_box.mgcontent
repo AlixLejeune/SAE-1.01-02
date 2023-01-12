@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>P:/SAE12/SAE12/Content/baltazar2_box.png</SourceFile>
-  <SourceTime>2023-01-10T16:43:20.4192898+01:00</SourceTime>
+  <SourceTime>2023-01-10T16:43:22+01:00</SourceTime>
   <DestFile>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/baltazar2_box.xnb</DestFile>
-  <DestTime>2023-01-11T08:51:03.5168939+01:00</DestTime>
+  <DestTime>2023-01-12T12:31:59.308516+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

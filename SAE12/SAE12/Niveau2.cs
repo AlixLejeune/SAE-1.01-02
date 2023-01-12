@@ -60,7 +60,7 @@ namespace SAE12
         string txtSorcier2 = "Tu ne peux passer par cette voie !";
         string txtSorcier3 = "Ta taille est bien trop consequente\npour emprunter ce chemin !";
         string txtSorcier4 = "Il te faut faire demi-tour afin de\nrecuperer la potion des minishs au\nniveau du donjon de la foie apres\navoir manger un fruit du demon il\nfaut aller passer ton examin hunter\net activer la mission de sortie de\nprison pour pouvoir faire en sorte de\nliberer le bon gros hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh";
-        string txtSorcier5 = "heuu...";
+        string txtSorcier5 = "Heuu...";
         string txtSorcier6 = "Vas-y... j'imagine...";
 
         string txtPerso = "C'est bon la ?";
@@ -284,7 +284,7 @@ namespace SAE12
                 _tiledMapRenderer2.Draw(matrix);
 
             //perso
-            _player.Draw(_spriteBatch, matrix);
+            
 
             _gardeSprite.Draw(_spriteBatch, matrix);
 
@@ -322,6 +322,7 @@ namespace SAE12
 
             }
 
+            _player.Draw(_spriteBatch, matrix);
         }
     }
 }

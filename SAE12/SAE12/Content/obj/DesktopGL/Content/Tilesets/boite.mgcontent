@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>P:/SAE12/SAE12/Content/Tilesets/boite.png</SourceFile>
-  <SourceTime>2023-01-06T11:33:26.9797451+01:00</SourceTime>
+  <SourceTime>2023-01-06T11:33:28+01:00</SourceTime>
   <DestFile>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/Tilesets/boite.xnb</DestFile>
-  <DestTime>2023-01-06T11:34:11.1713009+01:00</DestTime>
+  <DestTime>2023-01-12T12:32:13.663577+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

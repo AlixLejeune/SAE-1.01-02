@@ -7,11 +7,16 @@
     <File>P:/SAE12/SAE12/Content/baltazar.png</File>
     <File>P:/SAE12/SAE12/Content/baltazar1_box.png</File>
     <File>P:/SAE12/SAE12/Content/baltazar2_box.png</File>
+    <File>P:/SAE12/SAE12/Content/bataille.mp3</File>
+    <File>P:/SAE12/SAE12/Content/bomb.png</File>
     <File>P:/SAE12/SAE12/Content/cave.png</File>
+    <File>P:/SAE12/SAE12/Content/Character_sheet.png</File>
     <File>P:/SAE12/SAE12/Content/chicken_sheet.png</File>
     <File>P:/SAE12/SAE12/Content/Desert Tileset.png</File>
     <File>P:/SAE12/SAE12/Content/E.png</File>
+    <File>P:/SAE12/SAE12/Content/explosion.mp3</File>
     <File>P:/SAE12/SAE12/Content/false.png</File>
+    <File>P:/SAE12/SAE12/Content/fin.png</File>
     <File>P:/SAE12/SAE12/Content/First_Asset_pack.png</File>
     <File>P:/SAE12/SAE12/Content/Font.spritefont</File>
     <File>P:/SAE12/SAE12/Content/fontpetit.spritefont</File>
@@ -36,6 +41,7 @@
     <File>P:/SAE12/SAE12/Content/start.jpeg</File>
     <File>P:/SAE12/SAE12/Content/test.tmx</File>
     <File>P:/SAE12/SAE12/Content/test1.tmx</File>
+    <File>P:/SAE12/SAE12/Content/text_box.png</File>
     <File>P:/SAE12/SAE12/Content/Tilesets/boite.png</File>
     <File>P:/SAE12/SAE12/Content/Tilesets/text_box.png</File>
     <File>P:/SAE12/SAE12/Content/Tilesets/TilesetFloor.png</File>
@@ -55,6 +61,12 @@
     <File>P:/SAE12/SAE12/Content/VSFALSE.tmx</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

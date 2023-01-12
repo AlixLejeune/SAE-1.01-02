@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/VS.png</SourceFile>
-  <SourceTime>2023-01-10T16:10:00.3496463+01:00</SourceTime>
-  <DestFile>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/bin/DesktopGL/VS_0.xnb</DestFile>
-  <DestTime>2023-01-11T23:25:51.5681012+01:00</DestTime>
+  <SourceFile>P:/SAE12/SAE12/Content/VS.png</SourceFile>
+  <SourceTime>2023-01-10T16:10:02+01:00</SourceTime>
+  <DestFile>P:/SAE12/SAE12/Content/bin/DesktopGL/VS_0.xnb</DestFile>
+  <DestTime>2023-01-12T12:51:43.805312+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

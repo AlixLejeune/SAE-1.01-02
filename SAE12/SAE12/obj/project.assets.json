@@ -543,23 +543,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lejeunal\\.nuget\\packages\\": {},
+    "C:\\Users\\bardottq\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\R1.01 Programmation\\R1_01_InitiationDev_C#\\Sequence_7_Monogame\\SAE12\\SAE12\\SAE12.csproj",
+      "projectUniqueName": "P:\\SAE12\\SAE12\\SAE12.csproj",
       "projectName": "SAE12",
-      "projectPath": "P:\\R1.01 Programmation\\R1_01_InitiationDev_C#\\Sequence_7_Monogame\\SAE12\\SAE12\\SAE12.csproj",
-      "packagesPath": "C:\\Users\\lejeunal\\.nuget\\packages\\",
-      "outputPath": "P:\\R1.01 Programmation\\R1_01_InitiationDev_C#\\Sequence_7_Monogame\\SAE12\\SAE12\\obj\\",
+      "projectPath": "P:\\SAE12\\SAE12\\SAE12.csproj",
+      "packagesPath": "C:\\Users\\bardottq\\.nuget\\packages\\",
+      "outputPath": "P:\\SAE12\\SAE12\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lejeunal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bardottq\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

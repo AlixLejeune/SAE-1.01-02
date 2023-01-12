@@ -18,7 +18,7 @@ namespace SAE12
     {
         private Game1 _myGame; // pour récupérer le jeu en cours
         private GraphicsDeviceManager _graphics;
-        public SpriteBatch _spriteBatch;
+        public SpriteBatch SpriteBatch { get; set; }
         //DEFITION MAP
         public readonly ScreenManager _screenManager;
         //camera
@@ -30,6 +30,7 @@ namespace SAE12
         public Boss _boss;
         public Monstre1 _baltazar;
 
+        private SpriteBatch _spriteBatch;
         private AnimatedSprite _E;
         private Vector2 _positionE;
         public TiledMap _tiledMap;
@@ -68,19 +69,19 @@ namespace SAE12
         int etat = 0;
         int count = 120;
 
-        string txtPerso = "oups";
-        string txtPerso2 = "je fais la suite du jeu";
+        string txtPerso = "Oups";
+        string txtPerso2 = "Je fais la suite du jeu";
         string txtPerso3 = "...";
-        string txtPerso4 = "je...";
-        string txtPerso5 = "c'est quoi cette... mer";
-        string txtPerso6 = "ca commence a etre long ...";
-        string txtPerso7 = "on va remedier a ca";
+        string txtPerso4 = "Je...";
+        string txtPerso5 = "C'est quoi cette... mer";
+        string txtPerso6 = "Ca commence a etre long ...";
+        string txtPerso7 = "On va remedier a ca";
 
         string txtBalta = "STOPPPPPPPP !!!!";
         string txtBalta2 = "TU FAIS QUOI LA ?!";
         string txtBalta3 = "AH OUI JE VOIS, LA SUITE DU ...";
         string txtBalta4 = "";
-        string txtBalta5 = "comment tu ...";
+        string txtBalta5 = "Comment tu ...";
         string txtBalta6 = "MAIS C'EST BIEN SUR !!!!";
         string txtBalta7 = "TU DOIS PARLER DE CE JEU LA !!!!";
         string txtBalta8 = "LES REGLES DE CE JEU SONT\nTRES SIMPLES !!!!";
@@ -127,7 +128,7 @@ namespace SAE12
             var WindowSize = new Vector2(Width, Height);
 
 
-            _spriteBatch = new SpriteBatch(GraphicsDevice);
+            SpriteBatch = new SpriteBatch(GraphicsDevice);
 
 
             base.Initialize();

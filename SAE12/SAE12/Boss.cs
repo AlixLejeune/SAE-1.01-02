@@ -92,17 +92,17 @@ namespace SAE12
                 _posF.X = _pos.X + moveSpeed;
                 animation = "walk_right";
             }
-            else if (perso._pos.X < _pos.X)
+            if (perso._pos.X < _pos.X)
             {
                 _posF.X = _pos.X - moveSpeed;
                 animation = "walk_left";
             }
-            else if (perso._pos.Y > _pos.Y)
+            if (perso._pos.Y > _pos.Y)
             {
                 _posF.Y = _pos.Y + moveSpeed;
                 animation = "walk_back";
             }
-            else if (perso._pos.Y < _pos.Y)
+            if (perso._pos.Y < _pos.Y)
             {
                 _posF.Y = _pos.Y - moveSpeed;
                 animation = "walk_up";

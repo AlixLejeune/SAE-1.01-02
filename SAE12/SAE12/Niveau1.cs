@@ -47,16 +47,16 @@ namespace SAE12
         Texte _texte;
 
         //PAS ACCENTS !!!
-        string txtSpawn = "flute ...";
-        string txtSpawn2 = "je suis ou encore ...";
+        string txtSpawn = "Flute ...";
+        string txtSpawn2 = "Je suis ou encore ...";
         string txtBaltazar1 = "BONSOIR HEROS !!!!";
         string txtBaltazar2 = "BIENVENUE DANS LE TUTORIEL !!!!";
         string txtBaltazar3 = "JE VAIS T'EXPLIQUER COMMENT\nBIEN JOUER AVEC LES TOUCHES\nET TOUT !!!!";
-        string txtBaltazar4 = "lis tout ou consequence";
-        string txtBaltazar5 = "IL FAUT UTILISER LES ZQSD \nPOUR SE DEPLACER LOLOLOLOLOLOLOLOLOLOLOLOLOLOL";
-        string txtBaltazar6 = "voila c'est tout";
+        string txtBaltazar4 = "Tu devrais tout lire.";
+        string txtBaltazar5 = "IL FAUT UTILISER ZQSD \nPOUR SE DEPLACER LOLOLOLOLOLOLOLOLOLOLOLOLOLOL";
+        string txtBaltazar6 = "Voila c'est tout";
         string txtBaltazar7 = "ALLER SO LONG !!!!";
-        string txtBaltazar8 = "pas par la";
+        string txtBaltazar8 = "Pas par la";
 
         int etat = 0;
         int count = 60;

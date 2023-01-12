@@ -56,8 +56,8 @@ namespace SAE12
         int etat = 0;
         int count = 120;
 
-        string txtPerso = "voyons voir";
-        string txtPerso2 = "impecable";
+        string txtPerso = "Voyons voir ...";
+        string txtPerso2 = "Impeccable";
 
 
         public Niveau5(Game1 game) : base(game)

@@ -61,10 +61,13 @@ namespace SAE12
         int etat = 0;
         int count = 120;
 
-        string txtBalta = "oh mon dieu";
-        string txtBalta2 = "le poulet ne fait plus parti de\nl'ensemble des reels";
+        string txtPerso = "Ouais non ...";
+        string txtPerso2 = "Flemme ...";
+
+        string txtBalta = "Oh mon dieu !";
+        string txtBalta2 = "Le poulet ne fait plus parti de\nl'ensemble des reels";
         string txtBalta3 = "POUR TA PEINE, TU VAS\nAFFRONTER UN BOSS\nINVINCIBLE !!!!";
-        string txtBalta4 = "bonne chance";
+        string txtBalta4 = "Bonne chance !";
 
 
         Vector2 _pos = new Vector2(795, 520);
@@ -159,6 +162,9 @@ namespace SAE12
             if (inter && (etat == 1 || etat == 2 || etat == 3 || etat == 4))
             _texte.Update(gameTime, _soundBaltazar, 2);
 
+            if (inter && (etat == 6 || etat == 7))
+                _texte.Update(gameTime, _soundPerso, 2);
+
             if (count > 0)
                 count--;
 
@@ -205,15 +211,42 @@ namespace SAE12
                 etat = 5;
                 inter = false;
                 move = true;
+                count = 300;
+
+            }
+
+            if(etat == 5 && count <= 0)
+            {
+                etat = 6;
+                move = false;
+                inter = true;
+                _texte.Load(_police, txtPerso);
+                _texte.fini = false;
+                persoBox = true;
+
+            }
+            if (_texte.fini && debut && etat == 6 && keyboardState.IsKeyDown(Keys.Enter))
+            {
+
+                etat = 7;
+                _texte.fini = false;
+                _texte.Load(_police, txtPerso2);
+
+            }
+            if (_texte.fini && debut && etat == 7 && keyboardState.IsKeyDown(Keys.Enter))
+            {
+
+                etat = 8;
+                
 
             }
 
             _camera.LookAt(_player._pos);
             _tiledMapRenderer.Update(gameTime);
 
-            if (_player.interaction && keyboardState.IsKeyDown(Keys.E))
+            if(etat == 8 && _texte.fini)
             {
-                _myGame.LoadScreenFin();
+                _myGame.LoadScreenCredits();
             }
 
         }

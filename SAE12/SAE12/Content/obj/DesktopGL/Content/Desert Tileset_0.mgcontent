@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>P:/SAE12/SAE12/Content/Desert Tileset.png</SourceFile>
-  <SourceTime>2021-03-29T19:36:19.7938389+02:00</SourceTime>
+  <SourceTime>2021-03-29T19:36:20+02:00</SourceTime>
   <DestFile>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/Desert Tileset_0.xnb</DestFile>
-  <DestTime>2023-01-05T13:41:19.2217016+01:00</DestTime>
+  <DestTime>2023-01-12T12:32:13.4604409+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

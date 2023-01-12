@@ -33,7 +33,7 @@ namespace SAE12
             _graphics.PreferredBackBufferWidth = 1920; 
             _graphics.PreferredBackBufferHeight = 1080;
             _graphics.ApplyChanges();
-            LoadScreenFin();
+            LoadScreenStart();
             base.Initialize();
         }
 
@@ -84,6 +84,10 @@ namespace SAE12
         public void LoadScreenFin()
         {
             _screenManager.LoadScreen(new Fin(this), new FadeTransition(GraphicsDevice, Color.Black));
+        }
+        public void LoadScreenCredits()
+        {
+            _screenManager.LoadScreen(new Credits(this), new FadeTransition(GraphicsDevice, Color.Black));
         }
 
     }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>P:/SAE12/SAE12/Content/garde_sprite.png</SourceFile>
-  <SourceTime>2023-01-11T15:19:47.83693+01:00</SourceTime>
+  <SourceTime>2023-01-11T15:19:48+01:00</SourceTime>
   <DestFile>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/garde_sprite.xnb</DestFile>
-  <DestTime>2023-01-11T16:05:57.8793772+01:00</DestTime>
+  <DestTime>2023-01-12T12:32:05.1632094+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

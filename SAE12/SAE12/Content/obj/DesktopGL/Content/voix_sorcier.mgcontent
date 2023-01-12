@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>P:/SAE12/SAE12/Content/voix_sorcier.mp3</SourceFile>
-  <SourceTime>2023-01-11T12:35:31.4856192+01:00</SourceTime>
+  <SourceTime>2023-01-11T12:35:32+01:00</SourceTime>
   <DestFile>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/voix_sorcier.xnb</DestFile>
-  <DestTime>2023-01-11T16:06:02.6185713+01:00</DestTime>
+  <DestTime>2023-01-12T12:32:16.0419273+01:00</DestTime>
   <Importer>Mp3Importer</Importer>
   <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>
