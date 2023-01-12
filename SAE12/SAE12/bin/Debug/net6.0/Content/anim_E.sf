@@ -1,0 +1,14 @@
+{
+  "textureAtlas": {
+    "texture": "E.png",
+    "regionWidth": 32,
+    "regionHeight": 32
+  },
+  "cycles": {
+    "anim_E": {
+      "frames": [0,1],
+      "isLooping": true,
+      "frameDuration": 0.3
+    }
+  }
+}

@@ -1,0 +1,410 @@
+P:\SAE12\SAE12\bin\Debug\net6.0\SAE12.exe
+P:\SAE12\SAE12\bin\Debug\net6.0\SAE12.deps.json
+P:\SAE12\SAE12\bin\Debug\net6.0\SAE12.runtimeconfig.json
+P:\SAE12\SAE12\bin\Debug\net6.0\SAE12.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\SAE12.pdb
+P:\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Framework.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+P:\SAE12\SAE12\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+P:\SAE12\SAE12\bin\Debug\net6.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+P:\SAE12\SAE12\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+P:\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+P:\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.AssemblyReference.cache
+P:\SAE12\SAE12\obj\Debug\net6.0\SAE12.GeneratedMSBuildEditorConfig.editorconfig
+P:\SAE12\SAE12\obj\Debug\net6.0\SAE12.AssemblyInfoInputs.cache
+P:\SAE12\SAE12\obj\Debug\net6.0\SAE12.AssemblyInfo.cs
+P:\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.CoreCompileInputs.cache
+P:\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.CopyComplete
+P:\SAE12\SAE12\obj\Debug\net6.0\SAE12.dll
+P:\SAE12\SAE12\obj\Debug\net6.0\refint\SAE12.dll
+P:\SAE12\SAE12\obj\Debug\net6.0\SAE12.pdb
+P:\SAE12\SAE12\obj\Debug\net6.0\SAE12.genruntimeconfig.cache
+P:\SAE12\SAE12\obj\Debug\net6.0\ref\SAE12.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Font.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\start.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Autofac.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Animations.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\Newtonsoft.Json.dll
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetIdle.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetWalk.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetIdle.sf
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetWalk.sf
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\First_Asset_pack.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\First_Asset_pack_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut2.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut3.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut4.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\mapGenerale.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\mapGeneraleTuiles.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\mapGeneraleTuiles_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Desert Tileset.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Desert Tileset_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\test.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\test1.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloor.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloorDetail.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloorDetail_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloor_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetHouse.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetHouse_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetRelief.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetReliefDetail.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetReliefDetail_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetRelief_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetWater.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetWater_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\boite.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\boite_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\E.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\anim_E.sf
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\fontuwu.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\text_box.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\foret.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\foret1.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar_sprite_sheet.sf
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\perso_box.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\voix_perso.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\voix_princesse.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\trial.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\trialswap.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\VS.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\VStudio.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\VS_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\VS2.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\false.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\false_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\VSFALSE.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\maxwell music.ogg
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\maxwell music.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\voix_baltazar.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar1_box.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar2_box.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\cave.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\cave_0.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\grotte.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\grottedetruite.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\garde.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\garde_sprite.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\song_sorcier.ogg
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\song_sorcier.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\voix_sorcier.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\fontpetit.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\garde_sprite.sf
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\chicken_sheet.xnb
+P:\SAE12\SAE12\bin\Debug\net6.0\Content\chicken_sheet.sf
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar1_box.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar2_box.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\cave.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\cave_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\chicken_sheet.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Desert Tileset.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Desert Tileset_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\E.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\false.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\false_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\First_Asset_pack.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\First_Asset_pack_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Font.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\fontpetit.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\fontuwu.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\foret.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\foret1.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\garde.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\garde_sprite.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\grotte.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\grottedetruite.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut2.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut3.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut4.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\mapGenerale.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\mapGeneraleTuiles.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\mapGeneraleTuiles_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\maxwell music.ogg
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\maxwell music.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\perso_box.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetIdle.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetWalk.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\song_sorcier.ogg
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\song_sorcier.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\start.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\test.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\test1.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\boite.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\boite_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\text_box.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloor.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloorDetail.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloorDetail_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloor_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetHouse.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetHouse_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetRelief.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetReliefDetail.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetReliefDetail_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetRelief_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetWater.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetWater_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\trial.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\trialswap.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\voix_baltazar.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\voix_perso.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\voix_princesse.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\voix_sorcier.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\VS.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\VS2.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\VSFALSE.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\VStudio.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\VS_0.xnb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\anim_E.sf
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar_sprite_sheet.sf
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\chicken_sheet.sf
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\garde_sprite.sf
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetIdle.sf
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetWalk.sf
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\SAE12.exe
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\SAE12.deps.json
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\SAE12.runtimeconfig.json
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\SAE12.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\SAE12.pdb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Autofac.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Animations.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.AssemblyReference.cache
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\SAE12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\SAE12.AssemblyInfoInputs.cache
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\SAE12.AssemblyInfo.cs
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.CoreCompileInputs.cache
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.CopyComplete
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\SAE12.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\refint\SAE12.dll
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\SAE12.pdb
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\SAE12.genruntimeconfig.cache
+C:\Users\Kentokkk\Desktop\SAE12\SAE12\obj\Debug\net6.0\ref\SAE12.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar1_box.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar2_box.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\cave.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\cave_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\chicken_sheet.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Desert Tileset.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Desert Tileset_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\E.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\false.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\false_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\First_Asset_pack.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\First_Asset_pack_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Font.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\fontpetit.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\fontuwu.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\foret.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\foret1.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\garde.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\garde_sprite.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\grotte.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\grottedetruite.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut2.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut3.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut4.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\mapGenerale.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\mapGeneraleTuiles.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\mapGeneraleTuiles_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\maxwell music.ogg
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\maxwell music.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\perso_box.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetIdle.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetWalk.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\song_sorcier.ogg
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\song_sorcier.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\start.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\test.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\test1.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\boite.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\boite_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\text_box.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloor.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloorDetail.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloorDetail_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloor_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetHouse.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetHouse_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetRelief.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetReliefDetail.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetReliefDetail_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetRelief_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetWater.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetWater_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\trial.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\trialswap.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\voix_baltazar.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\voix_perso.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\voix_princesse.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\voix_sorcier.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\VS.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\VS2.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\VSFALSE.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\VStudio.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\VS_0.xnb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\anim_E.sf
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar_sprite_sheet.sf
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\chicken_sheet.sf
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\garde_sprite.sf
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetIdle.sf
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetWalk.sf
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\SAE12.exe
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\SAE12.deps.json
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\SAE12.runtimeconfig.json
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\SAE12.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\SAE12.pdb
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Autofac.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Animations.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\SAE12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\SAE12.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\SAE12.AssemblyInfo.cs
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.CopyComplete
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\SAE12.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\refint\SAE12.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\SAE12.pdb
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\SAE12.genruntimeconfig.cache
+C:\Users\Utilisateur\Music\SAE12\SAE12\obj\Debug\net6.0\ref\SAE12.dll
+C:\Users\Utilisateur\Music\SAE12\SAE12\bin\Debug\net6.0\Content\Character_sheet.png
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar1_box.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar2_box.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\cave.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\cave_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\chicken_sheet.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Desert Tileset.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Desert Tileset_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\E.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\false.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\false_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\First_Asset_pack.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\First_Asset_pack_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Font.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\fontpetit.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\fontuwu.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\foret.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\foret1.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\garde.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\garde_sprite.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\grotte.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\grottedetruite.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut2.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut3.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\mapDebut4.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\mapGenerale.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\mapGeneraleTuiles.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\mapGeneraleTuiles_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\maxwell music.ogg
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\maxwell music.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\perso_box.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetIdle.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetWalk.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\song_sorcier.ogg
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\song_sorcier.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\start.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\test.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\test1.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\boite.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\boite_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\text_box.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloor.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloorDetail.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloorDetail_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetFloor_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetHouse.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetHouse_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetRelief.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetReliefDetail.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetReliefDetail_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetRelief_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetWater.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Tilesets\TilesetWater_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\trial.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\trialswap.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\voix_baltazar.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\voix_perso.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\voix_princesse.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\voix_sorcier.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\VS.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\VS2.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\VSFALSE.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\VStudio.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\VS_0.xnb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\anim_E.sf
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\baltazar_sprite_sheet.sf
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\Character_sheet.png
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\chicken_sheet.sf
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\garde_sprite.sf
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetIdle.sf
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Content\playerSheetWalk.sf
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\SAE12.exe
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\SAE12.deps.json
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\SAE12.runtimeconfig.json
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\SAE12.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\SAE12.pdb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Autofac.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Animations.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\MonoGame.Framework.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\Newtonsoft.Json.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.AssemblyReference.cache
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\SAE12.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\SAE12.AssemblyInfoInputs.cache
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\SAE12.AssemblyInfo.cs
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.CoreCompileInputs.cache
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\SAE12.csproj.CopyComplete
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\SAE12.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\refint\SAE12.dll
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\SAE12.pdb
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\SAE12.genruntimeconfig.cache
+P:\R1.01 Programmation\R1_01_InitiationDev_C#\Sequence_7_Monogame\SAE12\SAE12\obj\Debug\net6.0\ref\SAE12.dll

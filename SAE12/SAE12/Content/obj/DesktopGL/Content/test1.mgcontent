@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>P:/SAE12/SAE12/Content/test1.tmx</SourceFile>
+  <SourceTime>2023-01-06T13:26:52.2755667+01:00</SourceTime>
+  <DestFile>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/test1.xnb</DestFile>
+  <DestTime>2023-01-06T13:26:59.1197814+01:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2020-08-29T19:17:30+02:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2020-08-29T19:17:30+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/Tilesets/TilesetFloor_0.xnb</string>
+    <string>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/Tilesets/TilesetHouse_0.xnb</string>
+    <string>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/Tilesets/TilesetRelief_0.xnb</string>
+    <string>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/Tilesets/TilesetWater_0.xnb</string>
+    <string>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/Tilesets/TilesetReliefDetail_0.xnb</string>
+    <string>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/Tilesets/TilesetFloorDetail_0.xnb</string>
+    <string>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/Tilesets/boite_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

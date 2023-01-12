@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>P:/SAE12/SAE12/Content/mapGenerale.tmx</SourceFile>
+  <SourceTime>2022-12-07T11:58:04+01:00</SourceTime>
+  <DestFile>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/mapGenerale.xnb</DestFile>
+  <DestTime>2023-01-05T12:14:19.9622674+01:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2020-08-29T19:17:30+02:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2020-08-29T19:17:30+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>P:/SAE12/SAE12/Content/bin/DesktopGL/Content/mapGeneraleTuiles_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

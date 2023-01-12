@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/baltazar.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/baltazar1_box.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/baltazar2_box.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/bataille.mp3</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/bomb.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/cave.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Character_sheet.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/chicken_sheet.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Desert Tileset.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/E.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/explosion.mp3</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/false.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/First_Asset_pack.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Font.spritefont</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/fontpetit.spritefont</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/fontuwu.spritefont</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/foret.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/foret1.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/garde.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/garde_sprite.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/grotte.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/grottedetruite.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/mapDebut.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/mapDebut2.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/mapDebut3.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/mapDebut4.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/mapGenerale.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/mapGeneraleTuiles.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/maxwell music.mp3</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/perso_box.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/playerSheetIdle.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/playerSheetWalk.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/song_sorcier.mp3</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/start.jpeg</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/test.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/test1.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Tilesets/boite.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Tilesets/text_box.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Tilesets/TilesetFloor.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Tilesets/TilesetFloorDetail.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Tilesets/TilesetHouse.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Tilesets/TilesetRelief.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Tilesets/TilesetReliefDetail.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/Tilesets/TilesetWater.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/trial.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/trialswap.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/voix_baltazar.mp3</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/voix_perso.mp3</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/voix_princesse.mp3</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/voix_sorcier.mp3</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/VS.png</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/VS2.tmx</File>
+    <File>C:/Users/Utilisateur/Music/SAE12/SAE12/Content/VSFALSE.tmx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
